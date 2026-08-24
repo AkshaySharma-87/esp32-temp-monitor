@@ -80,8 +80,7 @@ Temperature: 0.00
 HTTP Response: 200
 
 Web interface page
-<img width="1753" height="772" alt="image" src="https://github.com/user-attachments/assets/96288689-083b-40e9-a6a9-
-76bf0ccb7af9"/>
+<img src="https://github.com/user-attachments/assets/96288689-083b-40e9-a6a9-76bf0ccb7af9" width="800"/>
 
 ## 🧠 What I Learned
 - How ESP32 connects and communicates over WiFi
